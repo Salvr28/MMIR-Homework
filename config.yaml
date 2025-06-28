@@ -1,0 +1,42 @@
+# Dataset Paths
+dataset:
+  base_path: YOUR_DATASET_PATH
+  pubmed_dir: YOUR_PUBMED_DIR_PATH
+  book_dir: YOUR_BOOK_DIR_PATH
+
+# first couple: histai/hibou-b --- dmis-lab/biobert-v1.1
+# second couple: MahmoodLab/uni --- microsoft/biogpt
+
+# Model Parameters
+model:
+  image_encoder:
+    name: histai/hibou-b
+    pretrained: True
+  text_encoder:
+    name: dmis-lab/biobert-v1.1
+  temperature: 0.07
+
+# Training Parameters
+preprocessing:
+  image_size: 224 # Image resolution (e.g., 224x224)
+  text_max_length: 128 # Maximum token length for text
+
+# Embeddings Parameters
+embeddings:
+  output_dir: YOUR_EMBEDDINGS_OUTPUT_DIR_PATH
+  image_embeddings_file: image_embeddings.npy
+  text_embeddings_file: text_embeddings.npy
+  metadata_file: metadata.json
+  faiss_index_file: faiss_index.bin
+
+# Rag Parameters
+rag:
+  queries_path: YOUR_RAG_QUERIES_PATH
+  model_api: YOUR_GEMINI_API_KEY # Assuming this is where your Gemini API key would go
+
+# FAISS Index Parameters
+faiss:
+  hnsw:
+    M: 32 # Number of connections per node
+    efConstruction: 100 # Construction parameter
+    efSearch: 50 # Search parameter
