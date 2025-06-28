@@ -1,0 +1,152 @@
+[
+  {
+    "image_path": "3f93c716-8fc9-42e9-bc29-bec52a51ab4b.jpg",
+    "ground_truth_description": "ER expression in tumor tissue. IHC staining, original",
+    "source": "pubmed_set"
+  },
+  {
+    "image_path": "9fcdf1e1-139c-4b63-bf1a-79d83c71f41a.jpg",
+    "ground_truth_description": "Nuclear expression of TS (brown) in a colon carcinoma",
+    "source": "pubmed_set"
+  },
+  {
+    "image_path": "00f1ad7a-f4b0-4938-b874-089d40a123ce.jpg",
+    "ground_truth_description": "Nuclear expression of E2F1 (brown) in a colon carcinoma. This is higher magnification of the upper portion of a core shown in an inset (lower left corner)",
+    "source": "pubmed_set"
+  },
+  {
+    "image_path": "9d3aef30-7c8b-4b78-9acf-ec523f952650.jpg",
+    "ground_truth_description": "Cytoplasmic immunoexpression of PD-L1 in oral squamous cell carcinomas with poorer prognosis (OSCCPP). Immunohistochemistry. Total magnification x100",
+    "source": "pubmed_set"
+  },
+  {
+    "image_path": "b317d529-3626-49fc-9282-e4f28cf3d1cb.jpg",
+    "ground_truth_description": "Nuclear and perinuclear immunoexpression of Foxp3 in oral squamous cell carcinomas with poorer prognosis (OSCCPP). Immunohistochemistry. Total magnification x100",
+    "source": "pubmed_set"
+  },
+  {
+    "image_path": "e9e99cb6-f795-4c5d-9d66-a8e81475b934.jpg",
+    "ground_truth_description": "Cytoplasmic immunoexpression of PD-L1 in oral squamous cell carcinomas with better prognosis (OSCCBP). Immunohistochemistry. Total magnification x100",
+    "source": "pubmed_set"
+  },
+  {
+    "image_path": "c707e670-51d0-468a-b70d-ab01d7c68546.jpg",
+    "ground_truth_description": "Nuclear and perinuclear immunoexpression of Foxp3 in oral squamous cell carcinomas with better prognosis (OSCCBP). Immunohistochemistry. Total magnification x100",
+    "source": "pubmed_set"
+  },
+  {
+    "image_path": "02b0b1d1-aa27-45cd-b3e2-dd2046b50348.jpg",
+    "ground_truth_description": "Cytoplasmic immunoexpression of PD-L1 in control. Immunohistochemistry. Total magnification x100",
+    "source": "pubmed_set"
+  },
+  {
+    "image_path": "91e19b7f-0690-4c3c-85ff-7ea5acfbaae9.jpg",
+    "ground_truth_description": "Nuclear and perinuclear immunoexpression of Foxp3 in control. Immunohistochemistry. Total magnification x100",
+    "source": "pubmed_set"
+  },
+  {
+    "image_path": "825c15ad-9acd-4b19-8cd2-771154528bcd.jpg",
+    "ground_truth_description": "Membranous immunoexpression of CD4 in oral squamous cell carcinomas with poorer prognosis (OSCCPP). Immunohistochemistry. Total magnification x100",
+    "source": "pubmed_set"
+  },
+  {
+    "image_path": "a95bd89f-151d-43d9-8b7e-e478f52b9c52.jpg",
+    "ground_truth_description": "Membranous immunoexpression of CD4 in oral squamous cell carcinomas with better prognosis (OSCCBP). Immunohistochemistry. Total magnification x100",
+    "source": "pubmed_set"
+  },
+  {
+    "image_path": "47e7df94-1a05-4a25-a674-92e285f46971.jpg",
+    "ground_truth_description": "Membranous immunoexpression of CD4 in control. Immunohistochemistry. Total magnification x100",
+    "source": "pubmed_set"
+  },
+  {
+    "image_path": "88630bd8-cd35-4ff4-aff5-08e8602b3a76.jpg",
+    "ground_truth_description": "Membranous immunoexpression of CD8 in oral squamous cell carcinomas with better prognosis (OSCCBP). Immunohistochemistry. Total magnification x100",
+    "source": "pubmed_set"
+  },
+  {
+    "image_path": "85fee66b-7769-431b-af6e-b76e638f2a4e.jpg",
+    "ground_truth_description": "Membranous immunoexpression of CD8 in oral squamous cell carcinomas with poorer prognosis (OSCCPP). Immunohistochemistry. Total magnification x100",
+    "source": "pubmed_set"
+  },
+  {
+    "image_path": "b93fac84-af40-4a9a-928c-b7c3393cdf99.jpg",
+    "ground_truth_description": "Membranous immunoexpression of CD8 in control. Immunohistochemistry. Total magnification x100",
+    "source": "pubmed_set"
+  },
+  {
+    "image_path": "c63bed35-0118-4f63-b6c3-34147986ba38.png",
+    "ground_truth_description": "Focal keratin expression is common in epithelioid hemangioendothelioma, so vascular markers (CD34, CD31, and Fli-1) are required to differentiate this tumor from metastatic carcinoma.",
+    "source": "books_set"
+  },
+  {
+    "image_path": "c7107df5-675b-4846-893b-dc6ae6382f63.png",
+    "ground_truth_description": "Focus of necrosis in retroperitoneal leiomyosarcoma.",
+    "source": "books_set"
+  },
+  {
+    "image_path": "380c5d64-47c6-462e-ad18-7abdd515ee5f.png",
+    "ground_truth_description": "Epithelioid morphology in retroperitoneal leiomyosarcoma.",
+    "source": "books_set"
+  },
+  {
+    "image_path": "d9e96b90-3408-4ccc-aab5-1320208507a0.png",
+    "ground_truth_description": "Benign fibrous histiocytoma. Storiform arrangement of tumor cells.",
+    "source": "books_set"
+  },
+  {
+    "image_path": "1afb1cd8-91c7-497c-8adf-4cd3a39948ae.png",
+    "ground_truth_description": "Benign fibrous histiocytoma. A circumscribed but noncapsulated fibrohistiocytic dermal proliferation. The overlying epidermis is hyperplastic.",
+    "source": "books_set"
+  },
+  {
+    "image_path": "d75ab63f-0413-4e14-a3c9-960a8959d58f.png",
+    "ground_truth_description": "Fascicular architecture in leiomyosarcoma of deep soft tissue.",
+    "source": "books_set"
+  },
+  {
+    "image_path": "5bf388ec-9ec6-4349-93c3-d77e91560905.png",
+    "ground_truth_description": "Leiomyosarcoma arising from a blood vessel.",
+    "source": "books_set"
+  },
+  {
+    "image_path": "42a1c4ad-319a-4be7-8727-abe635de1229.png",
+    "ground_truth_description": "Fibroma of tendon sheath. Low-power view shows that the tumor is hypocellular and collagenous with clefting or pseudovascular spaces.",
+    "source": "books_set"
+  },
+  {
+    "image_path": "0fc9bcea-de74-45a0-84ab-03f6b3428cdb.png",
+    "ground_truth_description": "Fibroma of tendon sheath. High-power view shows bland spindle and stellate cells embedded in abundant extracellular collagenous matrix.",
+    "source": "books_set"
+  },
+  {
+    "image_path": "6819b85f-b992-4135-aa9a-ca1d58f8170d.png",
+    "ground_truth_description": "Fibrosarcoma of bone. Lesions consist of a cellular population of spindle cells that often assumes a herringbone pattern.",
+    "source": "books_set"
+  },
+  {
+    "image_path": "8c22661d-cade-486a-80fd-3343347ebad7.png",
+    "ground_truth_description": "Fibrosarcoma of bone. The spindle cells usually show mild nuclear atypia.",
+    "source": "books_set"
+  },
+  {
+    "image_path": "71adf38a-65b5-4fbe-808d-9f77e5255837.png",
+    "ground_truth_description": "Fibrosarcoma of bone. Some low-grade lesions are heavily collagenized. The spindle cells, however, show some mild nuclear atypia.",
+    "source": "books_set"
+  },
+  {
+    "image_path": "8a3d71b7-d21b-42a5-8182-3a2774b822c1.png",
+    "ground_truth_description": "Malignant fibrous histiocytoma. Most commonly, lesions show pleomorphic, spindle cells in a storiform pattern.",
+    "source": "books_set"
+  },
+  {
+    "image_path": "6246ffed-7330-4021-8fcb-f04577d1d069.png",
+    "ground_truth_description": "Malignant fibrous histiocytoma. Other lesions show a predominately histiocytic-like pattern with bizarre round cells and highly pleomorphic nuclei.",
+    "source": "books_set"
+  },
+  {
+    "image_path": "a7f3c585-b75a-42f8-ac82-6e9d999bb753.png",
+    "ground_truth_description": "Osteoma composed of an admixture of woven and lamellar bone deposited in a cortical-type pattern.",
+    "source": "books_set"
+  }
+]

@@ -1,0 +1,10 @@
+# Data
+*.png
+*.jpg
+*.bin
+*.npy
+*.yaml
+
+__pycache__/
+Dataset/books_set/*
+Dataset/pubmed_set/*
